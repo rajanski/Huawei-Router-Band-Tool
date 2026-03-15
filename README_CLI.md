@@ -18,6 +18,13 @@ A command-line interface tool for managing Huawei router band selection, signal 
 
 1. Ensure Python 3.7+ is installed
 2. Install required dependencies:
+   
+   **Using uv (recommended):**
+   ```bash
+   uv venv && source .venv/bin/activate && uv pip install huawei-lte-api speedtest-cli
+   ```
+   
+   **Using pip:**
    ```bash
    pip install huawei-lte-api speedtest-cli
    ```

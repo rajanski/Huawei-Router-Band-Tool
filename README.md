@@ -21,6 +21,13 @@ A powerful tool for optimising band selection to maximise signal quality and int
    cd huawei-band-optimiser
    ```
 3. Install the required dependencies:
+   
+   **Using uv (recommended):**
+   ```
+   uv venv && source .venv/bin/activate && uv pip install -r requirements.txt
+   ```
+   
+   **Using pip:**
    ```
    pip install -r requirements.txt
    ```
