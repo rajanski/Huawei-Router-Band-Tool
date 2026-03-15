@@ -70,7 +70,7 @@ The application saves your preferences in a `config.json` file, including:
 
 ## Licence
 
-[MIT Licence](LICENCE)
+[MIT Licence](https://opensource.org/licenses/MIT)
 
 ## Support the Project
 
